@@ -19,5 +19,5 @@ def mul (a,b)
 def div (a,b)
 {
    echo "=========================================="
-   echo "The division of ${a} and $[b} is ${a/b}" 
+   echo "The division of ${a} and ${b} is ${a/b}" 
 }
